@@ -3,4 +3,3 @@ Git is free software distributed under the GPL.
 this is one new info.
 this is step 1 change.
 this is step 2 change.
-useless info.
